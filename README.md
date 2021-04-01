@@ -1,4 +1,5 @@
 # Olá, Bem vindo ao meu GitHub!
+<img align="right" src="https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2018/05/20-sites-para-aprender-como-programar-de-gra%C3%A7a.png" width="35%"/>
 
 #### Sou Andre Junior, Engenheiro de software em formação profissional.
 
