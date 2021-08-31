@@ -14,6 +14,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-61DAFB?style=flat-square&logo=redux&logoColor=6a4daf)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![php](https://img.shields.io/badge/-php-%231572B6?style=flat-square&logo=PHP&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23F05032?style=flat-square&logo=java&logoColor=%23ffffff)
 
 <img alt="GIF"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregadelhajr&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
