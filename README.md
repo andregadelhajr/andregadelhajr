@@ -3,7 +3,7 @@
 
 #### Sou Andre Junior, Engenheiro de software em formação profissional.
 
-#### Desenvolvedor estudando para se tornar o melhor desenvolvedor Full-stack
+#### Estudando para se tornar um desenvolverdor Full-stack .
 
 #### codificando com:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
