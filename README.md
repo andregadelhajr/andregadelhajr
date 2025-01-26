@@ -1,9 +1,11 @@
 # Olá, Bem vindo ao meu GitHub!
 <img align="right" src="https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2018/05/20-sites-para-aprender-como-programar-de-gra%C3%A7a.png" width="35%"/>
 
-#### Sou Andre Junior, Engenheiro de software em formação profissional.
+#### Sou Andre Junior, Engenheiro de software e Desenvolvedor Full-Stack.
 
-#### Estudando para se tornar um desenvolverdor Full-stack .
+#### Especialista em linguagem back-end em .Net e Java e Front-end em Angular e React.
+
+#### Atualmente trabalho na empresa cast group, onde atuei em contratos com a Ache Laboratorio, TJSP e Sabesp.
 
 #### codificando com:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
